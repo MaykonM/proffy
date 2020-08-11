@@ -3,7 +3,6 @@
 ## 💻 Projeto
 Projeto criado durante a NLW-2 promovido pela [Rocketseat](https://rocketseat.com.br/)
 
-Link para acessar a [Demo](https://nlw-2.netlify.app/)
 <h1 align="center">
     <img style="width:70%" alt="ecoleta" src="https://i.ibb.co/6s76mHD/2020-08-04-21-44-07-Proffy.png" />
     <br>
