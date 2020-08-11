@@ -1,10 +1,10 @@
 # NLW 02
 
 ## 💻 Projeto
-Projeto criado durante a NLW 02 promovida pela [Rocketseat](https://rocketseat.com.br/)
+Projeto criado durante a NLW 02 da [Rocketseat](https://rocketseat.com.br/)
 
 <h1 align="center">
-    <img style="width:70%" alt="ecoleta" src="https://i.ibb.co/6s76mHD/2020-08-04-21-44-07-Proffy.png" />
+    <img style="width:80%" alt="proffy" src="https://i.ibb.co/6s76mHD/2020-08-04-21-44-07-Proffy.png" />
     <br>
 </h1>
 
