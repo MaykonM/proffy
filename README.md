@@ -27,7 +27,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/OLucasAlves/nlw-2.git
+$ git clone https://github.com/MaykonM/proffy.git
 
 # For each folder (server, web and mobile) go into folder and install dependecies
 
