@@ -32,7 +32,6 @@ This project was developed at the **Next Level Week #1** by [Rockseat](https://r
 <img alt="sqlite3" src="https://img.shields.io/badge/sqlite3-^4.2.0-brightgreen" />
 
 <br/>
-<br/>
 
 **Web (ReactJS):**
   
@@ -42,7 +41,6 @@ This project was developed at the **Next Level Week #1** by [Rockseat](https://r
 <img alt="axios" src="https://img.shields.io/badge/react--scripts-3.4.1-blue" /> 
 <img alt="axios" src="https://img.shields.io/badge/typescript-^3.7.5-blue" />
 
-<br/>
 <br/>
 
 ## :information_source: How To Use
