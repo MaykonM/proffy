@@ -1,4 +1,4 @@
-# nlw-2
+# NLW 02
 
 ## 💻 Projeto
 Projeto criado durante a NLW-2 promovido pela [Rocketseat](https://rocketseat.com.br/)
