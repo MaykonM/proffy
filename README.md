@@ -9,15 +9,6 @@ Projeto criado durante a NLW 02 promovida pela [Rocketseat](https://rocketseat.c
 </h1>
 
 <p align="center">
-    <img alt="npm" src="https://img.shields.io/npm/v/npm?color=%23FF0000">
-    <img alt="node" src="https://img.shields.io/badge/node-v12.14.1-brightgreen" />
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/OLucasAlves/nlw-2" />
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/OLucasAlves/nlw-2" />
-    
-    
-</p>
-
-<p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark_tabs-dependencies">Dependencies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>
