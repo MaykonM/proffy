@@ -3,10 +3,7 @@
 ## 💻 Projeto
 Projeto criado durante a NLW 02 da [Rocketseat](https://rocketseat.com.br/)
 
-<h1 align="center">
-    ![proffy_logo](https://user-images.githubusercontent.com/33705104/89908863-d1e8f680-dbc4-11ea-8d3e-2a31e4f7d586.png)
-    <br>
-</h1>
+![proffy_logo](https://user-images.githubusercontent.com/33705104/89908863-d1e8f680-dbc4-11ea-8d3e-2a31e4f7d586.png)
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
