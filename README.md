@@ -4,7 +4,7 @@
 Projeto criado durante a NLW 02 da [Rocketseat](https://rocketseat.com.br/)
 
 <h1 align="center">
-    <img style="width:80%" alt="proffy" src="https://i.ibb.co/6s76mHD/2020-08-04-21-44-07-Proffy.png" />
+    <img style="width:90%" alt="proffy" src="https://i.ibb.co/6s76mHD/2020-08-04-21-44-07-Proffy.png" />
     <br>
 </h1>
 
@@ -30,7 +30,6 @@ This project was developed at the **Next Level Week #1** by [Rockseat](https://r
 <img alt="cors" src="https://img.shields.io/badge/cors-^2.8.5-brightgreen" /> 
 <img alt="knex" src="https://img.shields.io/badge/knex-^0.21.1-brightgreen" /> 
 <img alt="sqlite3" src="https://img.shields.io/badge/sqlite3-^4.2.0-brightgreen" />
-
 <br/>
 
 **Web (ReactJS):**
@@ -40,7 +39,6 @@ This project was developed at the **Next Level Week #1** by [Rockseat](https://r
 <img alt="axios" src="https://img.shields.io/badge/react--router--dom-^5.2.0-blue" /> 
 <img alt="axios" src="https://img.shields.io/badge/react--scripts-3.4.1-blue" /> 
 <img alt="axios" src="https://img.shields.io/badge/typescript-^3.7.5-blue" />
-
 <br/>
 
 ## :information_source: How To Use
@@ -68,4 +66,3 @@ $ npm start
 $ cd mobile
 $ yarn install
 $ yarn start
-
